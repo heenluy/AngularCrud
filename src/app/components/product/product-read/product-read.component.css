@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+}
+
+i.edit {
+    color: silver;
+    transition: 0.4 ease-in;
+}
+
+i.edit:hover {
+    color: gold;
+}
+
+i.delete {
+    color: gray;
+    margin-left: 10px;
+    transition: 0.4 ease-in;
+}
+
+i.delete:hover {
+    color: lightpink;
+}

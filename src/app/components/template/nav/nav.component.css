@@ -1,0 +1,14 @@
+.sidenav {
+    width: 200px;
+}
+
+.list a i {
+    margin-right: 5px;
+}
+
+.content {
+    background-color: white;
+    color: #191919;
+
+    padding: 16px;
+}
